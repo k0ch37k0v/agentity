@@ -19,7 +19,7 @@ Agentity is an experimental AI agent built with LangChain that can modify its ow
 
 - Python 3.10+ (but < 3.14)
 - [uv](https://github.com/astral-sh/uv) package manager
-- OpenAI API key
+- OpenAI API compatbile LLM (local or cloud)
 
 ## Installation
 
